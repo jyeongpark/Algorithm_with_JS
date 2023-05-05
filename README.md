@@ -14,6 +14,9 @@ switch (start) {
   case "b":
     codingTestSite = "Baekjoon";
     break;
+  case "softeer":
+    codingTestSite = "Softeer";
+    break;
   default:
     break;
 }
